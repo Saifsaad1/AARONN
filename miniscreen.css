@@ -46,16 +46,15 @@
         justify-content: center;
         right: -300px;
         transition: .2s;
+        padding-top: 50px;
 
     }
 
     #header ul {
-        gap: 100px;
+        gap: 80px;
     }
 
-    #header ul li {
-        font-size: 20px;
-    }
+   
 
     #navbar.active {
         right: 0;
