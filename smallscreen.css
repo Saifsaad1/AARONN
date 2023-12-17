@@ -1,0 +1,80 @@
+@media (max-width: 477px) {
+    h1 {
+        font-size: 50px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    h4 {
+        font-size: 16px;
+    }
+
+    button.normal {
+        padding: 20px 24px;
+    }
+
+    #front button {
+        margin-top: 40px;
+    }
+
+    h3 {
+        font-size: 40px;
+    }
+
+    #about-me p {
+        font-size: var(--p-medium);
+        font-family: var(--rubik);
+        color: var(--gray-text-2);
+        letter-spacing: 1.3px;
+        margin-top: 30px;
+    }
+
+    #about-me img {
+        width: 100%;
+    }
+
+    .about-me-light {
+        width: 402.14px;
+        height: 201.03px;
+    }
+
+    #projects {
+        margin-top: 200px;
+    }
+
+    #projects h2 {
+        text-align: center;
+    }
+
+    .card {
+        width: 100%;
+        height: max-content;
+        margin-top: 60px;
+    }
+
+    .card img {
+        width: 100%;
+        height: unset;
+        border-radius: 16px;
+    }
+
+    #testimonial {
+        padding: 0 20px;
+    }
+
+    .testimonial_light {
+        width: 399.14px;
+        height: 273.03px;
+    }
+
+    #footer {
+        padding: 40px 20px;
+    }
+
+    #footer .details_box img {
+        width: 200px;
+        height: 33.42px;
+    }
+}

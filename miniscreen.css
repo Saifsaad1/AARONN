@@ -14,6 +14,10 @@
 
 @media (max-width:799px) {
 
+    .section-p1{
+        padding: 0 20px;
+    }
+
     h1 {
         font-size: 64px;
     }
@@ -127,7 +131,9 @@
         margin-top: 0;
     }
 
-
+    #footer{
+        padding: 50px;
+    }
 
     #footer .details_box .address {
         margin-left: 0;

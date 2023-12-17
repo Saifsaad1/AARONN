@@ -27,6 +27,8 @@ html {
 body {
     font-family: var(--syne);
     background-color: var(--gray-1);
+    overflow-x: hidden;
+    width: 100vw;
 }
 
 a {
